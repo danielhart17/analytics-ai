@@ -207,4 +207,5 @@ You may now **proceed to the next lab**
 
 ## Acknowledgements
 
-- **Author** - Yanir Shahak, Senior Principal Software Engineer
+- **Author** - Daniel Hart, Yanir Shahak
+- **Contributors** - Uma Kumar, Hanna Rakhsha, Deion Locklear, Anthony Marino
